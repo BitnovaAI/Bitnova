@@ -8,7 +8,7 @@ We are an ambitious early-stage AI company creating powerful, practical, and acc
 
 - **[ArcaVid](https://github.com/BitnovaAI/ArcaVid)** — The Ultimate AI Content Factory
 - **[Syntex AI](https://github.com/BitnovaAI/Syntex-AI)** — Collaborative Intelligence for Developers
-- **[UltimaCore](https://github.com/BitnovaAI/UltimaCore)** — Open-source AI model orchestration library
+- **[UltimaCore](https://github.com/BitnovaAI/UltimaCore)** — Open-source AI model and agent orchestration library
 
 
 We believe in moving fast, shipping real products, and solving actual problems — not just chasing hype.
