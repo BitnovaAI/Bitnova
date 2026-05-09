@@ -6,7 +6,7 @@ We are an ambitious early-stage AI company creating powerful, practical, and acc
 
 ### Our Products
 
-- **[ArcaVid](https://github.com/BitnovaAI/ArcaVid)** — Next-generation AI Content Creation & Social Media Automation Platform
+- **[ArcaVid](https://github.com/BitnovaAI/ArcaVid)** — The Ultimate AI Content Factory
 - **[Syntex AI](https://github.com/BitnovaAI/Syntex-AI)** — Agentic Coding IDE where multiple frontier models collaborate like a team
 - **[UltimaCore](https://github.com/BitnovaAI/UltimaCore)** — Open-source AI model orchestration library
 
@@ -25,5 +25,3 @@ Founded by **Hardik Sen**, a passionate builder dedicated to advancing AI access
 ---
 
 *Early Stage • Actively Building • Open Source at Heart*
-
-Founder→Hardik Sen
