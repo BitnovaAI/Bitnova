@@ -18,7 +18,7 @@ Founded by **Hardik Sen**, a passionate builder dedicated to advancing AI access
 ---
 
 ### Connect With Us
-- Website: [bitnova.ai](https://bitnova.ai) (coming soon)
+- Website:(coming soon)
 - GitHub: [@BitnovaAI](https://github.com/BitnovaAI)
 - X: (coming soon)
 
